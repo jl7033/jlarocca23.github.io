@@ -1,0 +1,12 @@
+---
+title: "Joe LaRocca"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+You've visited Joe LaRocca's personal website!
+
+![](/Users/Joe/Desktop/Screenshot 2024-08-31 at 10.02.33 AM.png)
+Here's a link to my [resume](/Users/Joe/Documents/Jobs and Applications/Resumes, Cover Letters, and Transcripts/Joe LaRocca - Resume 2024 (Word).docx)
