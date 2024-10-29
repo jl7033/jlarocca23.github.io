@@ -8,5 +8,6 @@ output:
 
 You've visited Joe LaRocca's personal website!
 
-![](/Users/Joe/Desktop/Screenshot 2024-08-31 at 10.02.33 AM.png)
-Here's a link to my [resume](/Users/Joe/Documents/Jobs and Applications/Resumes, Cover Letters, and Transcripts/Joe LaRocca - Resume 2024 (Word).docx)
+<img src="/Users/Joe/Desktop/Screenshot 2024-08-31 at 10.02.33 AM.png" style="width:75%">
+
+Here's a link to my [resume](https://docs.google.com/document/d/1F2FM0orF4hiL4OwpA4j2rvai95wNwzpEhsT11Kmxe1c/edit?tab=t.0). 
