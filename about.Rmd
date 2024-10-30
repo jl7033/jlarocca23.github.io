@@ -1,0 +1,11 @@
+---
+title: "About Joe"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+Joe is currently a first-year MS student at the Columbia Univeristy Mailman School of Public Health. He's studying biostatistics with a concentration in statistical genetics and is aiming to work as a biostatistician, data scientist, and/or researcher in the future. In his free time, Joe enjoys running, jazz piano, cooking, and playing chess. 
+
+
